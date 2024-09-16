@@ -39,11 +39,11 @@ The key objectives of this analysis include:
 
 ## Process
 
-1. `Data Cleaning (Python)`
+1. **Data Cleaning (Python)**
 - Data Type Corrections: Ensured all columns have the correct data types.
 - Handling Missing Data: Checked for any null values in the dataset.
 - Outlier Detection: Examined the categorical data columns for outliers and inconsistencies.
-2. `Data Analysis & Visualization (Power BI)`
+2. **Data Analysis & Visualization (Power BI)**
 - Exploratory Data Analysis: Performed in-depth analysis to find correlations between exam scores and other variables.
 - Visualizations: Created charts and graphs to represent relationships between various factors and student performance.
 
